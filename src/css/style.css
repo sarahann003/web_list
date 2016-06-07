@@ -1,0 +1,94 @@
+*{margin:0; padding:0;}
+body,td,th {
+	font-size: 12px;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a { color:#666; text-decoration:none; hide-focus: expression(this.hideFocus=true);  /* for ie 5+ */
+ outline: none;  /* for firefox 1.5 + */}
+a:focus { outline: none; }
+a:hover { color:#F00;}
+
+ul,li,form,h1,h2,h3,h4,h5,h6 { margin:0px; padding:0px;}
+ul { list-style:none;}
+
+.l{float:left;}
+.r{float:right;}
+
+.clear { clear:both;}
+.cfff{ color:#fff;}
+.c666{ color:#666;}
+.c333{ color:#333;}
+.padding10{ padding:10px;}
+.txt5{ width:5%; height:auto;}
+.txt10{ width:10%; height:auto;}
+.txt15{ width:15%; height:auto;}
+.txt25{ width:25%; height:auto;}
+.txt23{ width:23%; height:auto;}
+.txt24{ width:24%; height:auto;}
+.txt20{ width:20%; height:auto;}
+.txt30{ width:30%; height:auto;}
+.txt35{ width:35%; height:auto;}
+.txt33{ width:33%; height:auto;}
+.txt50{ width:50%; height:auto;}
+.txt40{ width:40%; height:auto;}
+.txt45{ width:45%; height:auto;}
+.txt60{ width:60%; height:auto;}
+.txt80{ width:80%; height:auto;}
+.txt85{ width:85%; height:auto;}
+.txt90{ width:90%; height:auto;}
+.txt55{ width:55%; height:auto;}
+.txt100{ width:100%; height:auto;}
+.txt58{ width:58%; height:auto;}
+.txtleft{ text-align:left;}
+.txtright{ text-align:right;}
+.txtcenter{ text-align:center;}
+.margin10{ margin: 10px;}
+.margin20{ margin: 20px;}
+.margin5{ margin: 5px;}
+.margin40{ margin: 40px;}
+.margin0{ margin:0;}
+.marginb10{ margin-bottom: 10px;}
+.marginb40{ margin-bottom: 40px;}
+.padding10{ padding: 10px;}
+.padding20{padding: 20px;}
+.padding5{ padding: 5px;}
+.padding3{ padding: 3px;}
+.marginl10{ margin-left:10px; }
+.marginl20{ margin-left:20px; }
+.marginl5{ margin-left:5px; }
+.marginl40{ margin-left:40px; }
+.marginl80{ margin-left:80px; }
+.marginl50{ margin-left:50px; }
+.marginr10{ margin-right:10px; }
+.marginr20{ margin-right:20px; }
+.marginr5{ margin-right:5px; }
+.marginr40{ margin-right:40px; }
+.margint10{ margin-top: 10px; }
+.margint20{ margin-top: 20px; }
+.margint40{ margin-top: 40px; }
+.margint30{ margin-top: 30px; }
+.margint60{ margin-top: 60px;}
+.margint50{ margin-top: 50px;}
+.marginb40{ margin-bottom: 40px; }
+.marginb20{ margin-bottom: 20px; }
+.marginb30{ margin-bottom: 30px;}
+.fz12{ font-size: 12px;}
+.fz14{ font-size: 14px;}
+.fz16{ font-size: 16px;}
+.fz18{ font-size: 18px;}
+.fz24{ font-size: 24px;}
+.fz36{ font-size: 36px;}
+.inline{
+	display: inline-block;
+}
+.block{
+	display: block;
+}
+.body { width:100%; margin:0px auto;}
+
+/*ash  templet*/
